@@ -60,6 +60,6 @@ Random Forest achieved the best performance among the three models.
 - XGBoost
 - Streamlit Deployment
 
-- ## Dataset
+ ## Dataset
 - Dataset source: Kaggle
 - Dataset Link:[View Dataset] https://www.kaggle.com/search?q=credit+card+fraud+detection+by+machine+learning+group-ULB+in%3Adatasets
